@@ -11,15 +11,14 @@
             "id": "948589b453f9e4e1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "2026-04-22.md",
-                "bFile": "2026-04-22.md",
-                "aRef": "a26bfb06a57082cc70b3e39e3307f50495898608^",
-                "bRef": "a26bfb06a57082cc70b3e39e3307f50495898608"
+                "file": "2026-04-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-04-22 (a26bfb0)"
+              "icon": "lucide-file",
+              "title": "2026-04-22"
             }
           }
         ]

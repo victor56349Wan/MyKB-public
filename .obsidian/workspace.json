@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "db4142bdc8c3f5e7",
+        "id": "b0c5b82a29dcf240",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc376cbf82236b3",
+            "id": "948589b453f9e4e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2026-04-22.md",
-                "mode": "source",
-                "source": false
+                "aFile": "2026-04-22.md",
+                "bFile": "2026-04-22.md",
+                "aRef": "a26bfb06a57082cc70b3e39e3307f50495898608^",
+                "bRef": "a26bfb06a57082cc70b3e39e3307f50495898608"
               },
-              "icon": "lucide-file",
-              "title": "2026-04-22"
+              "icon": "diff",
+              "title": "Diff: 2026-04-22 (a26bfb0)"
             }
           }
         ]
@@ -164,13 +165,23 @@
               "icon": "lucide-list",
               "title": "2026-04-22 的大纲"
             }
+          },
+          {
+            "id": "05365b3e3450edc8",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +191,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfc376cbf82236b3",
+  "active": "948589b453f9e4e1",
   "lastOpenFiles": [
-    "未命名.md",
-    "2026-04-22.md"
+    "2026-04-22.md",
+    "未命名.md"
   ]
 }
